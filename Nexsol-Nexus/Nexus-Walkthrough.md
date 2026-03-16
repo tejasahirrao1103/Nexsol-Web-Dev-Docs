@@ -18,12 +18,15 @@ Centralized processes used by all departments.
 - **Crisis-Response-SOP.md:** Protocols for technical and client emergencies.
 - **Client-Success-Form.md:** Systematic feedback and referral capture.
 
-### [02-Departments](file:///c:/Users/tejas/OneDrive/Desktop/Nexsol%20Web%20Dev%20Docs/Nexsol-Nexus/02-Departments)
-Specialized "Operating Systems" for each service line:
-- **01-Web-Development:** Standardized playbooks and tech guides.
-- **02-App-Development:** [Mobile-Strategy-Guide.md](file:///c:/Users/tejas/OneDrive/Desktop/Nexsol%20Web%20Dev%20Docs/Nexsol-Nexus/02-Departments/02-App-Development/Mobile-Strategy-Guide.md)
-- **03-AI-Automation:** [Enterprise-AI-SOPs.md](file:///c:/Users/tejas/OneDrive/Desktop/Nexsol%20Web%20Dev%20Docs/Nexsol-Nexus/02-Departments/03-AI-Automation/Enterprise-AI-SOPs.md)
-- **04-Transformation:** [Transformation-Roadmap.md](file:///c:/Users/tejas/OneDrive/Desktop/Nexsol%20Web%20Dev%20Docs/Nexsol-Nexus/02-Departments/04-Transformation/Transformation-Roadmap.md)
+### 📂 02-Departments (The Specialized Engine)
+Each department is now broken down into **Team-Specific SOPs** to ensure every employee has a clear roadmap:
+
+*   **Engineering:** `AI-Native-Standards.md`, `NextJS-Performance-Guide.md`, `Frontend-Aesthetics-Guide.md`, `Deployment-Checklist.md`.
+*   **Sales:** `The-Closing-Engine.md`, `Lead-Qualification-Script.md`, `Objection-Handling-Vault.md`, `CRM-Discipline-SOP.md`.
+*   **Marketing:** `Authority-And-Funnel.md`, `Content-Creation-SOP.md`, `ONDC-SEO-Framework.md`.
+*   **Operations:** `Lifecycle-And-Delivery.md`, `Client-Communication-SOP.md`, `QA-Technical-Audit.md`.
+*   **AI Automation:** `Enterprise-AI-SOPs.md`, `Workflow-Automation-SOP.md`, `RAG-Architecture-Standard.md`.
+*   **App Development:** `Mobile-Strategy-Guide.md`, `Mobile-UX-Checklist.md`.
 
 ### [03-Technical-Deep-Dives](file:///c:/Users/tejas/OneDrive/Desktop/Nexsol%20Web%20Dev%20Docs/Nexsol-Nexus/03-Technical-Deep-Dives)
 - ROI analysis and feature-to-value mapping for the entire Nexsol stack.
