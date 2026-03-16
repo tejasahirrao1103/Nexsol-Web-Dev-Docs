@@ -20,11 +20,20 @@ Centralized processes and cross-departmental global SOPs.
 - **Client-Success-Form.md:** Feedback and referral capture.
 
 ### [02-Departments](file:///c:/Users/tejas/OneDrive/Desktop/Nexsol%20Web%20Dev%20Docs/Nexsol-Nexus/02-Departments)
-Service-specific specialized zones for production.
-- **01-Web-Development:** `AI-Native-Standards.md`, `NextJS-Performance-Guide.md`, `Marketplace-To-Brand-SEO.md`.
-- **02-App-Development:** `Mobile-Strategy-Guide.md`, `Mobile-UX-Checklist.md`.
-- **03-AI-Automation:** `Enterprise-AI-SOPs.md`, `Workflow-Automation-SOP.md`, `RAG-Architecture-Standard.md`.
-- **04-Transformation:** `Transformation-Roadmap.md`, `Digital-Audit-SOP.md`.
+Service-specific specialized zones for employee production. Every department now contains a standardized **Internal Workspace** for team collaboration and project execution:
+- **01-Web-Development:** [AI Standards, SEO Framework]
+- **02-App-Development:** [Mobile Strategy, UX Checklist]
+- **03-AI-Automation:** [AI SOPs, RAG Architecture]
+- **04-Transformation:** [Roadmaps, Digital Audits]
+- **05-Marketing:** [Brand Execution, Campaign Assets]
+- **06-Sales:** [Deal Pipeline, Script Sandbox]
+- **07-Operations:** [Delivery Logistics, QA Logs]
+
+#### 🛠 Standardized Internal Structure:
+Every department folder above is organized as follows:
+- **`Current-Projects/`**: Active deliverables and client-specific work.
+- **`Team-Workspace/`**: General internal notes, scratchpads, and collaboration files.
+- **`Archive/`**: Completed work and legacy versions.
 
 ### [03-Technical-Deep-Dives](file:///c:/Users/tejas/OneDrive/Desktop/Nexsol%20Web%20Dev%20Docs/Nexsol-Nexus/03-Technical-Deep-Dives)
 - ROI analysis and feature-to-value mapping for the entire Nexsol stack.
