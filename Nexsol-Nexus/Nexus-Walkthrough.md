@@ -42,5 +42,13 @@ Every department folder above is organized as follows:
 - **Mockups/**, **Banners/**, and **Diagrams/**.
 
 ---
+
+## ☁️ Odoo Integration (Live Knowledge Base)
+The Nexsol Nexus is now synchronized with your **Odoo Knowledge App** at `nexsolinfotech.odoo.com`.
+- **Centralized Authority:** All SOPs and departmental folders are available as Odoo articles.
+- **Team Access:** Employees can now access our standards and project guides directly within Odoo.
+- **Hierarchy:** The Odoo structure mirrors our local file system (Strategy -> Shared Ops -> Departments).
+
+---
 **Nexsol Nexus**
 *Growth Engineered Visual OS.*
