@@ -3,13 +3,13 @@
 **This Statement of Work (SOW)** is governed by the Master Service Agreement (MSA) between **Nexsol Infotech** and **[Client Name]**.
 
 ## 1. Project Background
-[Client Name] seeks to deploy a high-performance digital storefront integrated with AI automation and ONDC capabilities.
+[Client Name] seeks to deploy a high-performance digital storefront integrated with AI automation and Direct-to-Consumer (D2C) capabilities.
 
 ## 2. Technical Scope of Deliverables
 ### Pillar 1: Digital Brand Storefront
 - **Stack:** Next.js 15, React, Tailwind CSS.
 - **Performance:** Sub-1s page load times.
-- **Integration:** ONDC Seller API sync.
+- **Integration:** Omnichannel Marketplace sync.
 
 ### Pillar 2: Nexsol AI Layer
 - **Lead Agent:** Custom qualifying chatbot.

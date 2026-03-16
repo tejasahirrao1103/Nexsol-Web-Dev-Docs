@@ -9,7 +9,7 @@
 *   **Action:** Send the "Welcome to Nexsol Nexus" email.
 *   **Checklist:**
     *   [ ] Request DNS Access (GoDaddy/Cloudflare).
-    *   [ ] Request ONDC/Shopify Credentials.
+    *   [ ] Request Marketplace/Shopify Credentials.
     *   [ ] Request Brand Assets (Logo, Colors, High-res product images).
     *   [ ] Introduce their primary point of contact (Operations Lead).
 
@@ -27,7 +27,7 @@
 
 ## 3. Handling Scope Creep (The "Red Flag" Pivot)
 When a client says: *"Can you also add a blog section?"* (if not in SOW).
-*   **Response:** "That sounds like a great addition to your digital authority. Currently, we are focused on the core ONDC integration as per our SOW. I've noted this blog request—let's complete the launch first, and then we can issue a 'Growth Add-on' SOW for the blog section."
+*   **Response:** "That sounds like a great addition to your digital authority. Currently, we are focused on the core marketplace-to-brand integration as per our SOW. I've noted this blog request—let's complete the launch first, and then we can issue a 'Growth Add-on' SOW for the blog section."
 *   **Why:** Protects the 21-day timeline.
 
 ---

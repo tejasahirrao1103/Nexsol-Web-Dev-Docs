@@ -35,7 +35,7 @@ graph LR
 ---
 
 ## 3. Automation "Secret Sauce" Templates
-- **Sales qualifying loop:** Automated WhatsApp response to new ONDC leads.
+- **Sales qualifying loop:** Automated WhatsApp response to new marketplace leads.
 - **SEO Agent:** Dynamic blog creation based on Google Search Console trends.
 - **Support Agent:** 24/7 intelligent ticket resolution.
 
