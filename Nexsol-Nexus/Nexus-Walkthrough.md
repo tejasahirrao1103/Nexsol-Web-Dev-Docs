@@ -13,7 +13,7 @@ The foundation of Nexsol's identity.
 ### [01-Shared-Operations](file:///c:/Users/tejas/OneDrive/Desktop/Nexsol%20Web%20Dev%20Docs/Nexsol-Nexus/01-Shared-Operations)
 Centralized processes and cross-departmental global SOPs.
 - **Sales-The-Closing-Engine.md:** High-impact calls and technical closing meetings.
-- **Marketing-The-Authority-Funnel.md:** Automated 6-day email and follow-up sequence.
+- **Marketing-The-Authority-Funnel.md:** Automated 6-day email and marketplace-to-brand follow-up sequence.
 - **Legal/:** Contains MSA, SOW, Pitch Deck, and Contracts.
 - **Finance-Policies.md:** Revenue and milestone management.
 - **Crisis-Response-SOP.md:** Protocols for technical emergencies.
@@ -21,7 +21,7 @@ Centralized processes and cross-departmental global SOPs.
 
 ### [02-Departments](file:///c:/Users/tejas/OneDrive/Desktop/Nexsol%20Web%20Dev%20Docs/Nexsol-Nexus/02-Departments)
 Service-specific specialized zones for production.
-- **01-Web-Development:** `AI-Native-Standards.md`, `NextJS-Performance-Guide.md`, `Frontend-Aesthetics-Guide.md`.
+- **01-Web-Development:** `AI-Native-Standards.md`, `NextJS-Performance-Guide.md`, `Marketplace-To-Brand-SEO.md`.
 - **02-App-Development:** `Mobile-Strategy-Guide.md`, `Mobile-UX-Checklist.md`.
 - **03-AI-Automation:** `Enterprise-AI-SOPs.md`, `Workflow-Automation-SOP.md`, `RAG-Architecture-Standard.md`.
 - **04-Transformation:** `Transformation-Roadmap.md`, `Digital-Audit-SOP.md`.

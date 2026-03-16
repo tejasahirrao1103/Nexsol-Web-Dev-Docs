@@ -19,7 +19,7 @@ mindmap
       Support RAG
         Zero Waiting Time
         Higher LTV
-    ONDC Bridge
+    Marketplace Hub
       Omnichannel
         Increased Reach
         Unified Ops

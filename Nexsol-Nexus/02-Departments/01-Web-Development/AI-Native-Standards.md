@@ -47,7 +47,7 @@ At Nexsol, AI isn't a feature; it's the core.
 ## 3. Coding Standards & Conventions
 1. **Performance:** Prioritize Server Components over Client Components for faster First Contentful Paint.
 2. **SEO:** Every page must have dynamic JSON-LD schema for Products, Reviews, and Local Business.
-3. **Inventory Sync:** Use Webhooks for ONDC and Shopify to ensure real-time inventory updates.
+3. **Inventory Sync:** Use Webhooks for Marketplace and Shopify to ensure real-time inventory updates.
 
 ---
 

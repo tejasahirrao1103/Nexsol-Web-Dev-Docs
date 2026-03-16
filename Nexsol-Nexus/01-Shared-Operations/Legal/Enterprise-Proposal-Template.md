@@ -15,7 +15,7 @@
 ### The "Engine" (Next.js 15)
 - **High Performance:** Industry-leading load speeds.
 - **SEO Dominance:** Built-in technical SEO that generic platforms can't match.
-- **ONDC Ready:** Unified inventory management.
+- **Omnichannel Hub:** Unified inventory management.
 
 ### The "Secret Sauce" (AI Automation)
 - **Sales Agent:** 24/7 lead qualification.
@@ -28,7 +28,7 @@
 
 | Phase | Deliverable | Investment | Projected Business Outcome |
 | :--- | :--- | :--- | :--- |
-| **I: Brand Launch** | Static Storefront | ₹7,000 | Professional digital trust & ONDC setup. |
+| **I: Brand Launch** | Static Storefront | ₹7,000 | Professional digital trust & infrastructure setup. |
 | **II: Growth Suite** | Shopify/WP Sync | ₹15,000 | Omnichannel sales & inventory automation. |
 | **III: Enterprise** | Custom AI + Ops | **Value-Based** | 40% reduction in OpEx & Data Ownership. |
 

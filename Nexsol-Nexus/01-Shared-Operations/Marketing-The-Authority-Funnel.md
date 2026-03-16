@@ -12,7 +12,7 @@ graph TD
     subgraph TOFU [Top of Funnel: Awareness]
         LI[LinkedIn Authority Posts]
         WA[WhatsApp Status Loop]
-        SEO[ONDC-Specific SEO Blogs]
+        SEO[Marketplace-to-Brand SEO]
     end
     
     subgraph MOFU [Middle of Funnel: Consideration]
@@ -43,7 +43,7 @@ graph TD
 
 ### Pillar A: The "Marketplace Commission" War
 **Messaging:** "You are building Amazon's brand, not yours."
-**Action:** Share weekly charts comparing ONDC margins vs. Brand Store margins.
+**Action:** Share weekly charts comparing Marketplace margins vs. Brand Store margins.
 
 ### Pillar B: The "AI-Native" Advantage
 **Messaging:** "Generic developers build pages; Nexsol builds agents."
@@ -51,9 +51,9 @@ graph TD
 
 ---
 
-## 3. SEO Standard for ONDC Sellers
+## 3. SEO Standard for Digital Brands
 We prioritize "High-Intent Bottom-Funnel" keywords for Indian SMEs:
-1. "ONDC Seller Website Integration India"
+1. "Direct-to-Consumer Website Integration India"
 2. "Custom Shopify Store for Electronics Pune"
 3. "AI Chatbot for Grocery Delivery Business"
 4. "Best Next.js Agency for E-commerce ROI"
@@ -64,9 +64,9 @@ We prioritize "High-Intent Bottom-Funnel" keywords for Indian SMEs:
 Our most effective automated lead generation strategy.
 
 #### Day 1: The "Commission Killer" Email
-**Subject:** [Business Name] + ONDC: Why you're losing 20% profit every day.
+**Subject:** [Business Name] + Brand Ownership: Why you're losing 20% profit every day.
 **Body:**
-"Hi [Name], I noticed your products on [Flipkart/Amazon/ONDC]. 
+"Hi [Name], I noticed your products on [Flipkart/Amazon/External Marketplaces]. 
 While marketplaces are great for volume, they own your customers and take a massive cut of your margin. 
 At Nexsol, we help electronics/grocery sellers build your own 'Growth Engine' where they keep 100% of the profit. 
 Would you be open to an ROI audit this week?"
@@ -82,7 +82,7 @@ Would you be open to an ROI audit this week?"
 ## 5. Marketing to Sales Handoff
 Lleads are qualified by the Marketing Team based on:
 - **Niche Alignment:** Electronics/Grocery/Logistics.
-- **Channel Presence:** Are they already on ONDC/Amazon?
+- **Channel Presence:** Are they already on Marketplaces/Amazon?
 - **Engagement:** Have they interacted with our "ROI Audit" post?
 
 ---

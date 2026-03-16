@@ -66,7 +66,7 @@ When pitching custom AI agents:
 ## 5. Objection Handling Mastery
 ### Top 3 Killers:
 1. **"Too Expensive":** Pivot to *cost of inaction*.
-2. **"I use ONDC already":** Pivot to *brand ownership*.
+2. **"I use marketplaces already":** Pivot to *brand ownership*.
 3. **"No Time":** Pivot to *Nexsol's 3-week delivery SOP*.
 
 ---
@@ -80,5 +80,5 @@ If the 6-day loop fails, use the direct phone approach:
 ## 7. Handover Checklist (Sales to Ops)
 - [ ] 40% Advance Invoice Paid.
 - [ ] Client "Pain Point" documented in CRM.
-- [ ] ONDC Seller Credentials collected.
+- [ ] Seller Platform Credentials collected.
 - [ ] Kick-off call scheduled for Week 1.

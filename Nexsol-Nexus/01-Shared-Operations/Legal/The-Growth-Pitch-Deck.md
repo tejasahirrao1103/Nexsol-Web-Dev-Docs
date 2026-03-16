@@ -1,7 +1,7 @@
 # The Nexsol Growth Engine: Detailed Pitch Narrative
 
 **Slide 1: Title & The Digital Era**
-*Script:* "Welcome. We are at a turning point in Indian commerce. You see the growth on ONDC and Amazon, but you also see your margins shrinking. Today, we talk about taking control of your brand's destiny."
+*Script:* "Welcome. We are at a turning point in Indian commerce. You see the growth on external marketplaces and Amazon, but you also see your margins shrinking. Today, we talk about taking control of your brand's destiny."
 
 ---
 
