@@ -20,43 +20,29 @@ We do not sell websites. We sell **Business Freedom**.
 
 ```mermaid
 graph TD
-    subgraph Outreach_Phase [Day 1-6: The Automated Outreach Loop]
-        D1[Day 1: ROI Gap Email] --> D2{Response?}
-        D2 -- No --> D3[Day 2: Follow-up Email]
-        D3 --> D4{Response?}
-        D4 -- No --> D5[Day 3: WhatsApp Intro]
-        D5 --> D6{Response?}
-        D6 -- No --> D7[Day 4: Performance WA]
-        D7 --> D8{Response?}
-        D8 -- No --> D9[Day 5: Urgency SMS]
-        D9 --> D10{Response?}
-        D10 -- No --> D11[Day 6: Final Takeaway]
+    subgraph Marketing_Handoff [Lead Generation: Marketing]
+        Email[Email/Follow-up Loop] --> Qualified[Qualified Lead]
     end
     
-    D2 -- Yes --> Discovery[Primary Discovery Call]
-    D4 -- Yes --> Discovery
-    D6 -- Yes --> Discovery
-    D8 -- Yes --> Discovery
-    D10 -- Yes --> Discovery
-    D11 -- Yes --> Discovery
-    D11 -- Still No --> ColdClose[Manual Cold Close Call]
+    subgraph Sales_Action [Conversion: Sales]
+        Discovery[Primary Discovery Call] --> CloseMeeting[Technical Closing Meeting]
+        CloseMeeting --> Deal[Deal Won / Milestone 1 Paid]
+    end
     
-    Discovery --> CloseMeeting[Technical Closing Meeting]
-    CloseMeeting --> Deal[Deal Won / Milestone 1 Paid]
+    Qualified --> Discovery
+    Discovery -- No Show --> ColdClose[Manual Cold Close Call]
     
-    style Outreach_Phase fill:#f8fafc,stroke:#cbd5e1,stroke-dasharray: 5 5
+    style Marketing_Handoff fill:#f8fafc,stroke:#cbd5e1,stroke-dasharray: 5 5
     style Deal fill:#22c55e,color:#fff,stroke:#166534
     style ColdClose fill:#f43f5e,color:#fff
 ```
 
-### Detailed Outreach Templates
-#### Day 1: The "Commission Killer" Email
-**Subject:** [Business Name] + ONDC: Why you're losing 20% profit every day.
-**Body:**
-"Hi [Name], I noticed your products on [Flipkart/Amazon/ONDC]. 
-While marketplaces are great for volume, they own your customers and take a massive cut of your margin. 
-At Nexsol, we help electronics/grocery sellers build your own 'Growth Engine' where they keep 100% of the profit. 
-Would you be open to an ROI audit this week?"
+## 3. High-Impact Sales Activities
+Sales at Nexsol is defined by **direct interaction**. Marketing handles the reaching out; Sales handles the closing.
+
+1. **Discovery Calls:** Uncovering pain points and mapping them to Nexsol solutions.
+2. **Closing Meetings:** Presenting ROI-driven proposals and securing advances.
+3. **Cold Close Calling:** The final proactive bridge for high-value leads.
 
 ---
 

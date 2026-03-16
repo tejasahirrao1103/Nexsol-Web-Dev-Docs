@@ -16,14 +16,15 @@ graph TD
     end
     
     subgraph MOFU [Middle of Funnel: Consideration]
-        Demo[AI Agent Live Demos]
-        Audit[Free ROI Audits]
-        Case[Technical Case Studies]
+        D1[Day 1: ROI Email]
+        D2[Day 2: Follow-up Email]
+        WA_Intro[WhatsApp Intro]
     end
     
     subgraph BOFU [Bottom of Funnel: Conversion]
-        Query[High-Intent Lead Query]
-        Discovery[Sales Discovery Call]
+        Demo[AI Agent Live Demos]
+        Audit[Free ROI Audits]
+        Handoff[Qualified Lead Handoff]
     end
     
     LI --> MOFU
@@ -59,11 +60,22 @@ We prioritize "High-Intent Bottom-Funnel" keywords for Indian SMEs:
 
 ---
 
-## 4. The WhatsApp "status" Loop
-Our most effective lead magnet for Indian sellers.
-- **Monday:** Performance Win (Site loading speeds).
-- **Wednesday:** AI Tip (How to automate FAQs).
-- **Friday:** The "One Slot Left" Urgency.
+## 4. The 6-Day ROI outreach Loop (Marketing)
+Our most effective automated lead generation strategy.
+
+#### Day 1: The "Commission Killer" Email
+**Subject:** [Business Name] + ONDC: Why you're losing 20% profit every day.
+**Body:**
+"Hi [Name], I noticed your products on [Flipkart/Amazon/ONDC]. 
+While marketplaces are great for volume, they own your customers and take a massive cut of your margin. 
+At Nexsol, we help electronics/grocery sellers build your own 'Growth Engine' where they keep 100% of the profit. 
+Would you be open to an ROI audit this week?"
+
+#### Day 2-6: The Follow-up Sequence
+1. **Day 2:** Email focusing on "Data Ownership."
+2. **Day 3:** WhatsApp Intro with a video of an AI Agent.
+3. **Day 5:** Urgency message regarding "Technical Authority" slots.
+4. **Day 6:** Final takeaway / Bridge to Sales.
 
 ---
 
