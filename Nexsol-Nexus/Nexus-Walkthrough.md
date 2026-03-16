@@ -21,7 +21,8 @@ Centralized processes used by all departments.
 ### 📂 02-Departments (The Specialized Engine)
 Each department is now a top-level entity under `02-Departments` to ensure every employee has a clear roadmap:
 
-*   **01-Engineering:** `AI-Native-Standards.md`, `NextJS-Performance-Guide.md`, `Frontend-Aesthetics-Guide.md`, `Deployment-Checklist.md`.
+*   **01-Web-Development (Engineering):**
+    *   **Engineering-Dept:** `AI-Native-Standards.md`, `NextJS-Performance-Guide.md`, `Frontend-Aesthetics-Guide.md`, `Deployment-Checklist.md`.
 *   **02-Marketing (Outreach & Authority):** `Authority-And-Funnel.md`, `Content-Creation-SOP.md`, `ONDC-SEO-Framework.md`. 
     *   *Core Tasks:* Email/Mail Sending, Follow-ups, Content Strategy.
 *   **03-Sales (The Closing Engine):** `The-Closing-Engine.md`, `Lead-Qualification-Script.md`, `Objection-Handling-Vault.md`, `CRM-Discipline-SOP.md`.
